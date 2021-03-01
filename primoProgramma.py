@@ -5,4 +5,14 @@ print("ciao")
 
 print('prova')
 
+
 print("m'illumino d'immenso")
+
+#aperto da terminale
+
+
+#commit quattro
+
+# banana
+
+print("banana")
